@@ -1,0 +1,1 @@
+export const ApiUrl = 'https://crudcrud.com/api/d6acfe57b39d40099423951b3cc59510/'
